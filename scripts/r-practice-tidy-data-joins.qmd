@@ -1,0 +1,10 @@
+---
+title: "R Practice: Tidy Data and Joins"
+format: html
+---
+```{r}
+library(readr)
+library(dplyr)
+library(lubridate)
+```
+
