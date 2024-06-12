@@ -28,8 +28,7 @@ summary(catch_original)
 # unique values in column
 unique(catch_original$Region)
 
-# open data frame
-View(catch_original)
+
 ```
 
 ## Clean and reshape
